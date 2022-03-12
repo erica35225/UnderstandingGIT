@@ -1,8 +1,11 @@
-public class f2 {
+public class feature {
     public void f2(){
         System.out.println("f2");
     }
     public void f3(){
         System.out.println("f3");
+    }
+    public void f4(){
+        System.out.println("f4");
     }
 }
